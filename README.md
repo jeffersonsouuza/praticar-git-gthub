@@ -6,6 +6,17 @@
 
 <br>
 
+## :hammer: Práticas feitas até o momento:
+
+- `Prática 1`: Criar Repositório
+- `Prática 2`: Git clone
+- `Prática 3`: Git Branch
+- `Prática 3`: Pull resquest
+- `Prática 3`: Git Pull
+- `Prática 3`: Git Clone
+- `Prática 3`: Git Log
+- `Prática 4`: Github pages (https://jeffersonsouuza.github.io/praticar-git-gthub/)
+
 ## Autor 
 
 <p> Criado por: </p>
